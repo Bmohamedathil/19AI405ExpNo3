@@ -10,7 +10,9 @@ How does BFS work? -Starting from the root, all the nodes at a particular level 
 To do this, a queue is used. All the adjacent unvisited nodes of the current level are pushed into the queue, and the current-level nodes are marked visited and popped from the queue.
 
 <br>
-Illustration : <br>
+Illustration : 
+<br>
+
 Let us understand the working of the algorithm with the help of the following example.<br>
 
 <table>
